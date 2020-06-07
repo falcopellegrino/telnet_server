@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\TelnetServer\TelnetClient\bin\Debug\TelnetClient.exe.config
+C:\Users\franc\source\repos\TelnetServer\TelnetClient\bin\Debug\TelnetClient.exe
+C:\Users\franc\source\repos\TelnetServer\TelnetClient\bin\Debug\TelnetClient.pdb
+C:\Users\franc\source\repos\TelnetServer\TelnetClient\bin\Debug\SimpleTCP.dll
+C:\Users\franc\source\repos\TelnetServer\TelnetClient\obj\Debug\TelnetClient.Form1.resources
+C:\Users\franc\source\repos\TelnetServer\TelnetClient\obj\Debug\TelnetClient.Properties.Resources.resources
+C:\Users\franc\source\repos\TelnetServer\TelnetClient\obj\Debug\TelnetClient.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\TelnetServer\TelnetClient\obj\Debug\TelnetClient.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\TelnetServer\TelnetClient\obj\Debug\TelnetClient.csproj.CopyComplete
+C:\Users\franc\source\repos\TelnetServer\TelnetClient\obj\Debug\TelnetClient.exe
+C:\Users\franc\source\repos\TelnetServer\TelnetClient\obj\Debug\TelnetClient.pdb
+C:\Users\franc\source\repos\TelnetServer\TelnetClient\obj\Debug\TelnetClient.csprojAssemblyReference.cache
