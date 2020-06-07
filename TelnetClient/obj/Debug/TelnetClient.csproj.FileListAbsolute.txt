@@ -10,3 +10,13 @@ C:\Users\franc\source\repos\TelnetServer\TelnetClient\obj\Debug\TelnetClient.csp
 C:\Users\franc\source\repos\TelnetServer\TelnetClient\obj\Debug\TelnetClient.exe
 C:\Users\franc\source\repos\TelnetServer\TelnetClient\obj\Debug\TelnetClient.pdb
 C:\Users\franc\source\repos\TelnetServer\TelnetClient\obj\Debug\TelnetClient.csprojAssemblyReference.cache
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetClient\bin\Debug\TelnetClient.exe.config
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetClient\bin\Debug\TelnetClient.exe
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetClient\bin\Debug\TelnetClient.pdb
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetClient\obj\Debug\TelnetClient.Form1.resources
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetClient\obj\Debug\TelnetClient.Properties.Resources.resources
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetClient\obj\Debug\TelnetClient.csproj.GenerateResource.cache
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetClient\obj\Debug\TelnetClient.csproj.CoreCompileInputs.cache
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetClient\obj\Debug\TelnetClient.csproj.Fody.CopyLocal.cache
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetClient\obj\Debug\TelnetClient.exe
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetClient\obj\Debug\TelnetClient.pdb

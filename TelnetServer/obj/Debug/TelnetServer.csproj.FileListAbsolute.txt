@@ -10,3 +10,13 @@ C:\Users\franc\source\repos\TelnetServer\TelnetServer\obj\Debug\TelnetServer.exe
 C:\Users\franc\source\repos\TelnetServer\TelnetServer\obj\Debug\TelnetServer.pdb
 C:\Users\franc\source\repos\TelnetServer\TelnetServer\bin\Debug\SimpleTCP.dll
 C:\Users\franc\source\repos\TelnetServer\TelnetServer\obj\Debug\TelnetServer.csproj.CopyComplete
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetServer\bin\Debug\TelnetServer.exe.config
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetServer\bin\Debug\TelnetServer.exe
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetServer\bin\Debug\TelnetServer.pdb
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetServer\obj\Debug\TelnetServer.TelnetServer.resources
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetServer\obj\Debug\TelnetServer.Properties.Resources.resources
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetServer\obj\Debug\TelnetServer.csproj.GenerateResource.cache
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetServer\obj\Debug\TelnetServer.csproj.CoreCompileInputs.cache
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetServer\obj\Debug\TelnetServer.csproj.Fody.CopyLocal.cache
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetServer\obj\Debug\TelnetServer.exe
+C:\Shared\Lavoro\PagoPA\TelnetServer\TelnetServer\obj\Debug\TelnetServer.pdb

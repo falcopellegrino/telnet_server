@@ -16,6 +16,7 @@ namespace TelnetServer
 {
     // https://www.youtube.com/watch?v=ve2LX1tOwIM - errore in BtnStart_Click(object sender, EventArgs e) corretto
     // https://stackoverflow.com/questions/45268898/c-sharp-client-server-chat-app-using-simpletcp-nuget-package
+    // https://stackoverflow.com/questions/189549/embedding-dlls-in-a-compiled-executable
 
     public partial class TelnetServer : Form
     {
